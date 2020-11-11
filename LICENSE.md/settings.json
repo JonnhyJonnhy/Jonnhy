@@ -1,0 +1,71 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Sublime Material Theme - Dark",
+    "cSpell.language": "pt,en-US",
+    "editor.fontSize": 17,
+    "editor.lineHeight": 21,
+    "editor.fontFamily": "Space mono",
+    "editor.renderLineHighlight": "gutter",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.formatOnSave": true,
+    "prettier.useEditorConfig": true,
+    "editor.wordWrap": "on",
+    "editor.fontLigatures": false,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "meta.function-call",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "entity.name.function",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "meta.selector",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "string.quoted",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "string.quoted",
+                "settings": {
+                    "fontStyle": "italic",
+                }
+            },
+            {
+                "scope": "variable.other.object.property",
+                "settings": {
+                    "foreground": "#ff0000"
+                }
+            },
+            {
+                "scope": "entity.name.type",
+                "settings": {
+                    "foreground": "#00ff00",
+                    "fontStyle": "italic"
+                }
+            },
+        ]
+
+    },
+    "workbench.colorCustomizations": {
+
+        
+    },
+    "window.zoomLevel": 0,
+    "workbench.editorAssociations": [
+    
+    ],
+
+}
